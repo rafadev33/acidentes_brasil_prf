@@ -7,7 +7,7 @@ Após baixado o arquivo csv, iniciou-se a análise e o tratamento dos dados ali 
 Tratamos os valores de números que estavam registrados como str transformando-os para valores númericos.
 Tratamos também valores numéricos para str, como no caso dos meses que estavam registrados com números de 1 a 7, com seus respectivos nomes.
 
-Depois de realizados os devidos tratamentos, passamos a cruzar os dados para obter informações sobre os acidentes ocorridos no Brasil. Dentre os dados que analisamos podemos destacar que:
+Depois de realizados os devidos tratamentos, passamos a cruzar os dados com o Power BI para obter informações sobre os acidentes ocorridos no Brasil. Dentre os dados que analisamos podemos destacar que:
 
 Ocorreram cerca de 275 mil acidentes nas Rodovias Federais do Brasil (sem levar em conta os registros que possuem dados nulos, o que elevaria o número total de acidentes para 343 mil acidentes).
 
