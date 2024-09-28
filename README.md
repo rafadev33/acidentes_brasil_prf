@@ -21,7 +21,7 @@ C - 70 mil são do gênero feminino, cerca de 25,33%;
 
 D - Os cinco estados com maior número de acidentes são Minas Gerais, Paraná, Santa Catarina, Rio Grande do Sul e Bahia;
 
-E - Domingo é o dia da semana com maior número de acidentes, seguido de sábado;
+E - Domingo é o dia da semana com maior número de acidentes, seguido de sábado e sexta-feira;
 
 F - O mês de Julho teve o maior número de acidentes registrados;
 
