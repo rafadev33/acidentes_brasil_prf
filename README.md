@@ -14,9 +14,15 @@ Ocorreram cerca de 275 mil acidentes nas Rodovias Federais do Brasil (sem levar 
 Desses 275 mil acidentes:
 
 A - 146 mil resultaram em vítimas fatais com resultado morte;
+
 B - 205 mil são do gênero masculino, cerca de 74,62%;
+
 C - 70 mil são do gênero feminino, cerca de 25,33%;
+
 D - Os cinco estados com maior número de acidentes são Minas Gerais, Paraná, Santa Catarina, Rio Grande do Sul e Bahia;
+
 E - Domingo é o dia da semana com maior número de acidentes, seguido de sábado;
+
 F - O mês de Julho teve o maior número de acidentes registrados;
+
 G - A BR 116 é a Rodovia Federal com o maior número de mortos, totalizando 1991 vítimas fatais de acidentes de trânsito.
